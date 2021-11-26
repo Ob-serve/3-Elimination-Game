@@ -1,2 +1,2 @@
-# 3-Elimination-Game
-A 3-Elimination Game imitating TB SQXXX
+# Elimination
+An 3-Elimination Game imitating TB SQXXX
